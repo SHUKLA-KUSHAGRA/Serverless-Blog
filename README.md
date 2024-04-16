@@ -15,3 +15,6 @@ Backend is hosted with cloudflare workers to deploy serverless backend
 - prisma accelerate
 - tailwind
 - vscode
+
+# Learnt to deploy my first npm package 😂
+  https://www.npmjs.com/package/@kushagra_shukla/medium-common
